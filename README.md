@@ -19,6 +19,7 @@ A vast number of plant pathogens from viroids of a few hundred nucleotides to hi
 
 link:https://pubmed.ncbi.nlm.nih.gov/16078878/
 
+#### Usefulness of this project:
 I worked on this project so we can build an app that works on our smartphone which can quickly detect the type of disease affecting our farm produce, this will reduce the amount of farm produce that will be lost to farm diseases. it will help us to control disease infection in farm at early stage. It will also improve the farm yield sice we are detecting the disease at its early stage.
 
 * Step to solve the problem:
