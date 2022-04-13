@@ -32,4 +32,5 @@ I worked on this project so we can build an app that works on our smartphone whi
 * plotting the accuracy and loss against each epoch
 * preprocessing the test data and making prediction on it.
 * visualizing the original and predictd labels for the test images.
-### building a streamlit App for the plant disease detection
+
+* ### building a streamlit App for the plant disease detection
